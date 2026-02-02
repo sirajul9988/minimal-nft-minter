@@ -1,0 +1,10 @@
+{
+  "name": "minimal-nft-minter",
+  "version": "1.0.0",
+  "description": "Flat structure ERC-721 NFT minter",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
